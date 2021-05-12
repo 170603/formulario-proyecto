@@ -1,0 +1,27 @@
+.fondo{
+  background-image: url("../img/rosafondo.png");
+  background-size: cover;
+  height: auto;
+  background-repeat: no-repeat;
+  }
+  .img-tam{
+    width: 90%;
+
+}
+.color-1{
+  background-color: #FFCEDA
+}
+.color-2{
+  background-color: #B55389
+}
+.color-3{
+  background-color: #A4DCBC
+}
+.color-4{
+  background-color: #72ED74
+}
+.color-5{
+  background-color: #A08BC7
+}
+.color-6{
+  background-color: #F89467
